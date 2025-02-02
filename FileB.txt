@@ -1,0 +1,4 @@
+This is file B
+This is a cheange to the fileB
+Another chnage is here now
+This my new chnage
